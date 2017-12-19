@@ -1,0 +1,716 @@
+@media (min-width:1200px) { 
+.widget-block .inputfld .form-control{width:86%}
+.widget-block figure{padding-bottom:0px}
+}
+@media (min-width:1200px) and (max-width:1500px) { 
+.banner-outer-section.banner3 {position: relative;background: url('../images/bg-banner3-desktop.jpg') no-repeat 50% bottom #e7e6e3;}
+.banner-outer-section.banner5 {position: relative;background: url('../images/banner-slider/bg-banner-laptop-5.jpg') no-repeat 50% bottom #e7e6e3;}
+.banner-outer-section.banner6 {position: relative;background: url('../images/banner-slider/bg-banner-laptop-6.jpg') no-repeat 50% bottom;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner1, .apollo-cancer-banner-outer-section.apollo-cancer-banner2,  .apollo-cancer-banner-outer-section.apollo-cancer-banner3, .apollo-cancer-banner-outer-section.apollo-cancer-banner4, .apollo-cancer-banner-outer-section.apollo-cancer-banner5 {background-position:50% bottom}
+}
+
+@media (min-width:768px) and (max-width:1024px) { 
+.banner-outer-section.banner3 {position: relative;background: url('../images/bg-banner3-tablet.jpg') no-repeat left center #ecebe9 !important;}
+.banner-outer-section.banner4 {position: relative;background: url('../images/banner-slider/bg-banner4-tablet.jpg') no-repeat left top #ffeec5 !important;}
+.banner-outer-section.banner5 {position: relative;background: url('../images/banner-slider/bg-banner5-tablet.jpg') no-repeat left top #eaccb0 !important;}
+.banner-outer-section.banner6 {position: relative;background: url('../images/banner-slider/bg-banner6-tablet.jpg') no-repeat left top !important;}
+
+}
+@media (min-width:1600px) { 
+.widget-block-out .edoc{display:block;}
+}
+@media (max-width:1024px) {
+.banner-outer-section.banner6 .hd-green-txt {color:#39b54a; font-weight:bold; font-size:22px; line-height:26px; text-transform:uppercase; margin:0px; padding:0;}
+.banner-outer-section.banner6 .hd-blue-txt {color:#25aae1; font-weight:bold; font-size:22px; line-height:26px; text-transform:uppercase; margin:0px; padding:0 0 5px 0}
+.banner-outer-section.banner6 h3 {color:#000; font-size:18px; line-height:24px; font-weight:bold; text-transform:uppercase; margin:0px; padding:0 0 5px 0}
+.banner-outer-section.banner3 {background-size:auto 300px;}
+.main-menu nav > ul > li > ul > li > ul.nav-left-pos {left:-250px;}
+	.banner-content-block {padding-top:0px; min-height:180px;}
+	.appointment .banner-content-block {}
+	.explore-blk ul li.icons-explore {margin:0 12px;}
+	.explore-blk ul li.icons-explore > a {font-size:14px;}
+	.banner-content .city-list li, .banner-content .city-list li:nth-child(2n+2) {width:auto; margin-right:15px; border-bottom:0px solid;}
+	.banner-section .banner-hd-content {background-size:60% auto;}
+	.banner-content-block.location-block {min-height:inherit; margin:20px 0; background-position:0 0}
+    .appointment .banner-content-block {padding-left:30px;margin:20px 0;}
+	.iam-here {height:auto; padding:10px 0 20px;}
+	.iam-here span {width:100%; font-size:22px; line-height:26px; padding-bottom:10px; text-align:center;}
+	.iam-here ul li a {line-height:22px; background:url('../images/sep-nav.png') no-repeat 0 center; font-size:12px;padding:0 6px;}
+	.iam-here ul li:first-child a {padding-left:0px; background:transparent;}
+	footer {padding-top:20px;}
+	footer h3 {margin-top:0px;}
+	.copy-rights {width:42%;}
+	.copy-rights span {display:block}
+	.banner-hover-content.hover-clinic {background:url('../images/banner-images/clinics-tablet.png') no-repeat right top #fff; background-size:auto auto;}
+	.banner-hover-content.hover-speciality {background:url('../images/banner-images/speciality-hospital-tablet.png') no-repeat right top #fff; background-size:auto auto;}
+	.banner-hover-content.hover-ask-apollo {background:url('../images/banner-images/ask-tablet.png') no-repeat right 100% #fff; background-size:auto auto;}
+	.banner-hover-content.hover-education {background:url('../images/banner-images/education_research-tablet.png') no-repeat right 100% #fff; background-size:auto auto;}
+	.banner-hover-content.hover-wellness {background:url('../images/banner-images/wellness-tablet.png') no-repeat right top #fff; background-size:auto auto;}
+	/*.banner-hover-content.hover-wellness, .banner-hover-content.hover-speciality, .banner-hover-content.hover-ask-apollo, .banner-hover-content.hover-education, .banner-hover-content.hover-clinic {background-size:auto 58%; !important;}*/
+    .equipment .equipment-slider .flex-direction-nav li.flex-nav-prev {left: -28px;}
+    .equipment .equipment-slider .flex-direction-nav li.flex-nav-next {right: -28px;}
+    .banner-outer-section.banner1 {position: relative;background: url('../images/bg-banner.jpg') no-repeat 43% bottom;}
+    .banner-outer-section.banner2 {position: relative;background: url('../images/bg-banner2.jpg') no-repeat 43% bottom;}
+    .banner-outer-section.banner3 {position: relative;background: url('../images/bg-banner3.jpg') no-repeat 43% bottom;}
+    .banner-outer-section.banner4 {position: relative;background: url('../images/bg-banner4.jpg') no-repeat 43% bottom;}
+    .banner-outer-section.banner5 {position: relative;background: url('../images/bg-banner5.jpg') no-repeat 43% bottom;}
+    .banner-outer-section.banner6 {position: relative;background: url('../images/bg-banner6.jpg') no-repeat 43% bottom;}
+    .patients-speak .desc {padding-top:2px}
+    .patients-speak .desc p{font-size:12px}
+    .patients-speak .desc b{font-size:12px}
+    .patients-speak .desc small{font-size:11px}
+    .key-medical-blk .keymedical .flex-direction-nav li {top:194px}
+    .key-medical-outer .latest-apollo-blk {min-height:358px}
+    .main-menu nav > ul > li > a {font-size:11px}
+    .search-social .search {margin:5px 15px 0 6px;width:275px; display:block;}
+    .logo-apollo {padding:22px 20px 0 0}
+	.geo {position:relative; text-align:center; width:100%; left:0px; margin-left:0px;float:left;}
+	.geo > table {float:none !important; margin:0px auto !important;}
+	 h2.tl{font-size:28px;}
+	 .widget-block form{display:inherit}
+	 /*15.7.2015*/
+	 .mtm20{margin:-20px 20px 0 0;}
+.patients-safety-list ul li figure{text-align:center;float:left;width:33%;}
+.patients-safety-list ul li figcaption{font:13px 'robotoregular';color:#000;line-height:16px;float:left;width:57%;}
+.patients-safety-list ul li figcaption.endlist{width:67%;}
+.patients-safety-list ul li figcaption span{font:20px 'robotobold';color:#000;line-height:20px;}
+.banner-section h1.clinical-hd{padding-left:20px;line-height:35px;margin:15px 0 10px;}
+.banner-section h1.depth-hd{line-height:35px;margin:15px 0 40px;padding-left:0;}
+.clinical-care-list ul li{font-size:30px;}
+    
+}
+
+@media (min-width:960px) and (max-width:1024px) {
+.explore-blk ul li.icons-explore {margin: 0 13px;}
+.explore-blk ul li.icon-clinics .banner-hover-content:after {left: 40px;}
+.explore-blk ul li.icon-splty .banner-hover-content:after {left: 154px;}
+.explore-blk ul li.icon-ask .banner-hover-content:after {left: 414px;}
+.explore-blk ul li.icon-edu .banner-hover-content:after {left: 682px;}
+.explore-blk ul li.icon-wellness .banner-hover-content:after {left: 893px;}
+}
+
+
+@media (max-width:980px) {
+	 .main-menu {background:#fff;}
+.main-menu nav > ul > li > a {background:#224855; color:#fff;}
+.main-menu nav > ul > li:hover > a {background:#224855; color:#fff;}
+
+.main-menu nav > ul > li > ul > li > a { background:#a1cbda; color:#333; margin-bottom:1px;}
+.main-menu nav > ul > li > ul > li:hover > a {background:#a1cbda; color:#333;}
+
+.main-menu nav > ul > li > ul > li > ul > li a {background:#f9f9f9; color:#224855;}
+.main-menu nav > ul > li > ul > li > ul > li:hover > a {background:#f9f9f9; color:#224855;}
+.mobile-arrow.active {display:block;}
+.banner-outer-section.banner3 {background-size:auto 250px;}
+.equipment .equipment-slider li span {padding-top:10px; font-size:14px; line-height:18px;}
+.explore-blk ul li.icons-explore {margin:0 6px;}
+.explore-blk ul li.icons-explore > a {font-size:12px;}
+.explore-blk ul li.icon-clinics .banner-hover-content:after {left: 30px;}
+.explore-blk ul li.icon-splty .banner-hover-content:after {left: 114px;}
+.explore-blk ul li.icon-ask .banner-hover-content:after {left: 322px;}
+.explore-blk ul li.icon-edu .banner-hover-content:after {left: 524px;}
+.explore-blk ul li.icon-wellness .banner-hover-content:after {left: 686px;}
+.logo-apollo{padding-top:25px;padding-right:20px;}
+.search-social{padding:15px 0;}
+.helpline-block .helpline-txt{font-size:11px;}
+.mobileicons{float:right;}
+.mobileicons span.searchicon a{float:left;width:26px;height:26px;background:url('../images/searchicon.png') no-repeat 0 0;text-indent:-99999px;margin:10px 15px 0;}
+.mobileicons span.menuicon a{float:left;width:26px;height:26px;background:url('../images/menuicon.png') no-repeat 0 0;text-indent:-99999px;margin:10px 15px 0 0;}
+.mobileicons span.menuicon.mobilemenu-close a {background:url('../images/menuicon-close.png') no-repeat 0 0;}
+.pdl0{padding-left:0!important;}
+.pdr0{padding-right:0!important;}
+.pltr{padding:0 30px!important;}
+.helpline-block .helpline-txt .txt-red{display:inline-block;line-height:18px;text-align:center;width:100%;padding-top:3px;}
+.helpline-block .helpline-txt{line-height:inherit;}
+.helpline-block .txt-emergency{margin-top:-38px;}
+.joint-commission{float:left;margin-left:10px;}
+.social-media span{width:120px;}
+.apollo-prism{min-height:inherit;padding:25px 25px 20px;}
+.patients-speak .desc p{line-height:22px;}
+.patients-speak .desc b{padding-top:15px;}
+h2.tl{text-align:center;}
+h2.tlt{padding-top:25px;}
+.equipment .equipment-slider li figure{height:140px;}
+.equipment .equipment-slider li:hover figure img{margin-top:-160px;}
+/*.key-medical-blk .keymedical .flex-direction-nav li{right:7px;top:324px;}*/
+.equipment .equipment-slider .flex-direction-nav li.flex-nav-prev{left:-20px;}
+.equipment .equipment-slider .flex-direction-nav li.flex-nav-next{right:-170px;}
+
+.banner-outer-section.banner1 {position: relative;background: url('../images/bg-banner.jpg') no-repeat 41% bottom;}
+.banner-outer-section.banner2 {position: relative;background: url('../images/bg-banner2.jpg') no-repeat 34% bottom;}
+.banner-outer-section.banner3 {position: relative;background: url('../images/bg-banner3.jpg') no-repeat 34% bottom;}
+.banner-outer-section.banner4 {position: relative;background: url('../images/bg-banner4.jpg') no-repeat 34% bottom;}
+.banner-outer-section.banner5 {position: relative;background: url('../images/bg-banner5.jpg') no-repeat 34% bottom;}
+.banner-outer-section.banner6 {position: relative;background: url('../images/bg-banner6.jpg') no-repeat 34% bottom;}
+
+.banner-content-block.location-block {margin: 0;}
+.appointment .banner-content-block {padding-left:30px;margin:0}
+.banner-content-block.location-block {padding-left:0;background:none}
+.banner-content .city-list li, .banner-content .city-list li:nth-child(2n+2) {margin-right: 8px;width: 80px;}
+.txt-small {padding-top:25px}
+ /*.main-menu {
+    position: absolute;
+    width: 100%;
+    left:0;
+}*/
+.latest .slides li figure img{text-align:center;display: inline-block;}
+.latest .slides li{text-align:center}
+.key-medical-blk .keymedical .flex-direction-nav li{right:0;top:300px}
+
+
+/*15.7.2015*/
+.banner-section h1.clinical-hd{line-height:40px;margin:10px 0;padding-left: 30px;font-size:35px;}
+.mtm20{margin:-80px 130px 0 0;}
+.patients-safety-list{text-align:center;}
+.patients-safety-list ul li{float:left;height:110px;width:25%;}
+.patients-safety-list ul li figure{text-align:center;float:left;width:100%;height:71px;}
+.patients-safety-list ul li figcaption{width:100%;padding-top:5px;}
+.patients-safety-list ul li figcaption.endlist{width:100%;}
+.patients-safety-list ul li figcaption span{font:14px 'robotobold';color:#000;line-height:20px;}
+.clinical-care-list ul li{font-size:19px;line-height:40px !important;}
+.banner-section h1.depth-hd{font-size:25px;line-height:30px;margin:40px 0 100px;padding-left:0;}
+.clinical-care-list ul li span{font-size:10px;}
+.banner-section .banner-hd-content p.still {font-size:16px;}
+.banner-outer-section.banner7{position:relative;background:url('../images/banner-slider/bg-banner7-tablet.jpg') no-repeat left top !important;}
+.banner-outer-section.banner7 .logo-aphc-dna{padding-top:50px;padding-bottom:25px;float:left;width:100%;}
+.banner-outer-section.banner7 .logo-aphc-dna img{float:left;max-width:80%;}
+.banner-outer-section.banner7 h3{font:28px/27px "robotobold";}
+.banner-outer-section.banner7 p.txt-bold {font:14px/18px "robotolight";}
+.banner-outer-section.banner7 .btn-aphc {float:left;width:100%; padding-top:5px;font:14px "robotoblack";}
+.banner-outer-section.banner7 .btn-aphc a {float:left;}
+ }
+@media (max-width:767px) {
+
+.banner3-top {margin-top:0px;}
+	.banner-section h1 {letter-spacing:-1px;}
+.banner-slider .flex-direction-nav {display:none;} 
+.logo-apollo {padding-bottom: 10px;padding-right: 30px;padding-top: 10px;width: 95px;background-position:160px bottom;}
+.mobileicons span.searchicon a{margin:0px 8px 0 0;}
+.mobileicons span.menuicon a{margin:0px 15px 0 0;}
+.equipment {padding:30px 0 10px}
+.equipment h2 {font-size:30px;padding-bottom:6px;line-height:31px}
+.equipment h4 {font-size:14px;padding-bottom:20px;font-family: 'robotolight';line-height:17px}
+h2.tl{font-size: 30px;line-height: 31px;padding-bottom: 15px;}
+.key-medical-outer{padding:20px 0 30px}
+.key-medical-blk {margin-bottom:5px}
+.key-medical-blk .desc{padding:15px 12px}
+.key-medical-blk .desc h4{font-size:14px}
+.key-medical-blk .desc p{font-size: 12px;line-height: 16px;}
+.key-medical-blk .keymedical .flex-direction-nav li{ right: 0;top: 232px;}
+.patients-speak figure{float:none}
+.patients-speak figure img{margin:0 auto}
+.patients .flex-control-nav{display: block;padding: 0;margin:10px 0;text-align: center;}
+.patients-speak-outer {padding:20px 0 30px}
+.banner-section h1 {padding:0 0 5px;line-height:23px}
+.appointment .banner-content-block {padding-left:0px;margin:0}
+.appointment .banner-content-block p {font-size:12px }
+.banner-content {padding-top:20px;background:#f7dccb !important;}
+.txt-small {margin-top:-226px;padding:0}
+.banner-content .city-list li {font-size:12px}
+.banner-section{min-height:inherit}
+
+.banner-outer-section .bc{background:#f7dccb !important;}
+.banner-hd-content h1{font-size:20px; margin:0}
+.banner-section .banner-hd-content p{font-size:13px; line-height:16px;}
+.banner-content-block.location-block{background:none;   padding-left:0px;}
+.banner-content-block {min-height:inherit;}
+/*.banner-outer-section {background:url('../images/bg1.png') repeat-y 0 0; background-size:100% auto}*/
+.banner-outer-section.banner1 {background:none !important;}
+.banner-outer-section.banner2  {background:none !important;}
+.banner-hd-content-outer.bg1 {background:url('../images/bg.png') no-repeat 0 bottom; background-size:cover; padding-top:0px; margin-bottom:0;}
+.banner-hd-content-outer.bg2 {background:url('../images/bg2.png') no-repeat 0 bottom; background-size:cover; padding-top:0px; margin-bottom:0;}
+.banner-hd-content-outer.bg3 {background:#e7e6e3; padding-top:0px; margin-bottom:0;}
+.banner-hd-content-outer .banner-hd-content h1, .banner-hd-content-outer .banner-hd-content p {padding-left:30%;}
+.banner-hd-content-outer .banner-hd-content.img1 {float:right;margin-bottom:0px;background:url('../images/dr.png') no-repeat 0 bottom !important; background-size:auto auto !important; padding-top:30px; min-height:160px;}
+.banner-hd-content-outer .banner-hd-content.img2 {float:right;margin-bottom:0px;background:url('../images/dr2.png') no-repeat 0 bottom !important; background-size:auto auto !important; padding-top:30px; min-height:160px;}
+.banner-hd-content-outer .banner-hd-content.img3 {float:right;margin-bottom:0px;background:url('../images/dr3.png') no-repeat 0 bottom !important; background-size:auto auto !important; padding-top:30px; min-height:160px; padding-bottom:0px;}
+.banner-hd-content-outer .banner-hd-content.img3 p {margin-top:10px !important;}
+.appointment, .location-outer-block, .banner-hd-content {padding-bottom:20px; background:url('../images/bg-mobile-transparent.png') repeat-x 0 bottom !important; border-bottom:1px solid #b69c8a; margin-bottom:20px;float:left;width:100%;}
+.patients-safety-list {padding-left:26%;}
+.ecosystem-block {padding-bottom:20px; background:transparent !important; border-bottom:1px solid #b69c8a !important; margin-bottom:20px;float:left;width:100%;}
+.ecosystemaphc-block {padding-bottom:0; background:transparent !important; border-bottom:1px solid #b69c8a !important; margin-bottom:0;float:left;width:100%;}
+.appointment {margin-bottom:0px;}
+.banner-content h2 {font-size: 18px; padding:0 0 5px;}
+.banner-content .city-list li, .banner-content .city-list li:nth-child(2n+2){width: 30.3%; margin-right: 3%;}
+.banner-content-block.location-block h2{width:100%;}
+.banner-content-block h2{width:65%; float:left;}
+.banner-content-block p{width:50%; float:left;}
+.banner-content-block p+p{text-align:right; width:36%; position:absolute; top:5px; right:20px;}
+.banner-content-block .mr15{margin:0 0 10px 0 !important;}
+.btn-primary{padding: 5px;   font-weight: bold; font-size: 12px; text-shadow: 0px -1px 5px #000;}
+.banner-content-block.location-block{margin: 0 0 15px 0;}
+
+.explore-blk ul li.icons-explore{margin:0; padding-top:0px; width:100%; line-height:40px;}
+.explore-blk ul li.icon-clinics span, .explore-blk ul li.icon-clinics:hover span, .explore-blk ul li.icon-splty span, .explore-blk ul li.icon-splty:hover span, .explore-blk ul li.icon-pharmacies span, .explore-blk ul li.icon-pharmacies:hover span, .explore-blk ul li.icon-ask span, .explore-blk ul li.icon-ask:hover span, .explore-blk ul li.icon-tmt span, .explore-blk ul li.icon-tmt:hover span, .explore-blk ul li.icon-edu span, .explore-blk ul li.icon-edu:hover span,.explore-blk ul li.icon-insurance span, .explore-blk ul li.icon-insurance:hover span, .explore-blk ul li.icon-wellness span, .explore-blk ul li.icon-wellness:hover span{background-size:25px 25px; padding:0; background-position:center center;}
+.explore-blk ul li.icons-explore span{height:40px; float:left; width:25px; margin:0 15px 0 15px;}
+.explore-blk ul li.icons-explore > a{width:100%; text-align:left; font-size: 14px;}
+.explore-blk ul li.icons-explore.popup-cont > a {background:url('../images/expand.png') no-repeat 92% center;}
+.explore-blk ul li.icons-explore.popup-cont.collapse-slide > a {background:url('../images/collapse.png') no-repeat 92% center;}
+.explore-blk ul li.icons-explore.popup-cont.collapse-slide > a {color:#fdb813;}
+.explore-blk ul li.icons-explore.popup-cont > a {color:#fff;}
+.banner-hover-content {border-radius:0px !important;-webkit-border-radius:0px !important;-moz-border-radius:0px !important;-ms-border-radius:0px !important;}
+.banner-content .city-list li.view-all {position:absolute; right:10px; top:0px; width:auto; font-weight:bold;}
+.explore-blk{background:#351c1f; padding:0 0 15px; margin-bottom:0;}
+.iam-here span{text-align:left; padding-top:10px;}
+.iam-here ul li{width:50%}
+.iam-here ul li a{background:none; padding:0; line-height:30px; height:30px;}
+footer h3{font-size:10px; margin-bottom: 3px;}
+footer ul li a{font-size:9px;}
+.copy-rights{width:100%;}
+.footer-bottom img.img_shr{width:100%;}
+.banner-hover-content h2 {font-size:20px;}
+.banner-hover-content ul li {background:transparent;}
+.banner-hover-content{position:relative; left:inherit; top:inherit; bottom:inherit; min-height:inherit;}
+.banner-hover-content p.desc {line-height:22px; font-size:12px;}
+.banner-hover-content figure {display:none;}
+.hover-widget-block .hover-content {min-height:inherit;padding:0px; background:transparent;}
+.banner-hover-content:after {display:none;}
+.banner-hover-content p.desc2 {line-height:22px;}
+.explore-blk > ul{width:100%;}
+.banner-hover-content.hover-clinic, section.col-lg-12.col-md-12.col-sm-12.col-xs-12.banner-hover-content.bor-radius.hover-speciality, .banner-hover-content.hover-ask-apollo, .banner-hover-content.hover-education, .banner-hover-content.hover-wellness{background:#fff;}
+.explore-blk .hd-explore { line-height:32px; font-size:16px; margin:15px 15px 0;}
+.footer-bottom ul.share {margin-top:15px;}
+footer .copy-rights {text-align:center;}
+.banner-content h2 {font-family: 'robotobold';}
+.explore-block{position: relative;top: 0;}
+
+.widget-edoc-head {padding:0; background:transparent; margin-bottom:0px;float:left; width:100%;}
+.widget-edoc-head figure {display:none;}
+.widget-edoc-head h2 {float:none; display:inline-block;width:100%;}
+/*15.72015*/
+.banner-section h1.clinical-hd{font-size:14px;line-height:16px;margin:10px 0;}
+.banner-section h1.depth-hd{font-size:14px;line-height:16px;margin:10px 0;}
+.patients-safety-list ul{padding-left:0;}
+.patients-safety-list ul li{height:auto;width:50px;padding:0 5px;text-align:center;}
+.bgtrans{background:transparent !important;padding-top:0;border:0;}
+.appointment, .location-outer-block, .banner-hd-content.bgtrans{background:transparent !important;padding-top:0;}
+
+
+.banner-hd-content-outer.bg4 {background:#ffeec5;}
+.banner-hd-content-outer.bg5 {background:#eaccb0;}
+.banner-hd-content-outer.bg6 {background:#f3eef6;}
+.banner-hd-content-outer .banner-hd-content.img4{float:right;margin-bottom:0px;background:url('../images/banner-slider/dr4.png') no-repeat 0 bottom !important; background-size:auto auto !important; padding-top:0;height:160px; padding-bottom:0px;}
+.banner-hd-content-outer .banner-hd-content.img5{float:right;margin-bottom:0px;background:url('../images/banner-slider/dr5.png') no-repeat 0 bottom !important; background-size:auto auto !important; padding-top:0;height:160px; padding-bottom:0px;}
+.banner-hd-content-outer .banner-hd-content.img6{float:right;margin-bottom:0px;background:url('../images/banner-slider/dr6.png') no-repeat 0 bottom !important; background-size:auto auto !important; padding-top:0;height:160px; padding-bottom:0px;}
+
+.banner-hd-content-outer .banner-hd-content.img6 .logo-lets-talk-health {width:70px; float:left; margin-right:10px;}
+
+.banner-outer-section.banner6 .hd-green-txt {font-size:14px; line-height:18px; text-transform:uppercase; margin:0px; padding:0; padding-top:10px;}
+.banner-outer-section.banner6 .hd-blue-txt {font-size:14px; line-height:18px; text-transform:uppercase; margin:0px; padding:0 0 3px 0}
+.banner-outer-section.banner6 h3 {color:#000; font-size:14px; line-height:18px; font-weight:bold; text-transform:uppercase; margin:0px; padding:0}
+.banner-outer-section.banner6 .btn-lets-health-check {padding-top:5px;}
+.banner-outer-section.banner6 .btn-lets-health-check a {float:left; margin-left:80px;}
+
+.banner-hd-content-outer .banner-hd-content.img6 .section-banner-6-content {width:72%; float:left;}
+.banner-hd-content-outer .banner-hd-content h1, .banner-hd-content-outer .banner-hd-content p{padding-left:25%;}
+.mtm20{margin:-30px 30px 0 0;}
+.banner-section h1.depth-hd{font-size:18px;line-height:20px;margin:40px 0;}
+}
+
+@media (max-width:480px)  {
+.banner-outer-section.banner6 .hd-green-txt {font-size:12px; line-height:16px; text-transform:uppercase; margin:0px; padding:0; padding-top:10px;}
+.banner-outer-section.banner6 .hd-blue-txt {font-size:12px; line-height:16px; text-transform:uppercase; margin:0px; padding:0 0 5px 0}
+.banner-outer-section.banner6 h3 {color:#000; font-size:12px; line-height:16px; font-weight:bold; text-transform:uppercase; margin:0px; padding:0}
+.banner-outer-section.banner6 .btn-lets-health-check a {float:right;}
+.banner-section{min-height:inherit}
+ul.share li {float:left;}
+.latest .slides li figure {padding-right:0px;}
+.banner-hd-content-outer .banner-hd-content.img3 {float:right;margin-bottom:0px;background:url('../images/dr3.png') no-repeat 0 bottom !important; background-size:auto auto !important; padding-top:10px; min-height:160px; padding-bottom:0px;}
+.banner-hd-content-outer .banner-hd-content.img3 p {margin-top:5px !important;}
+}
+/*@media (max-width:520px)  {
+	.col-xxs-12 {width:100%;}
+}*/
+@media (max-width:980px) {
+	.equipment .equipment-slider li img{max-width:70%}
+	.equipment .equipment-slider .flex-direction-nav li.flex-nav-next{right:-20px}
+	.equipment .equipment-slider li figure{height:75px}
+	.equipment .equipment-slider li:hover figure img{margin-top:-80px}
+	.openmenu {position:fixed; width:250px;right:-250px; top:0px; bottom:0px; z-index:99999; overflow:auto;}
+	.openmenu .container {width:100%;}
+	.main-menu nav > ul > li > ul > li > ul.twocol,.main-menu nav > ul > li > ul > li > ul.twocolsmall {width:100%;}
+	.main-menu nav > ul > li > ul > li > ul.twocol > li,.main-menu nav > ul > li > ul > li > ul.twocolsmall > li {width:100%; float:left; margin-right:0px;}
+	.main-menu nav > ul > li > ul {display:block;}
+	.main-menu nav > ul > li > ul, .main-menu nav > ul > li > ul > li > ul {display:block;}
+	.main-menu nav > ul{width:100%;}
+	.main-menu .container {padding:0px;}
+	.main-menu nav > ul > li{float:none; border-bottom:1px solid #fff}
+	.main-menu nav > ul > li > a{float:none;display:block;line-height:30px;padding:0 10px; font-size:14px;}
+	.main-menu nav > ul > li > ul{left:inherit;position:relative;top:inherit;width:100%;}
+	.main-menu nav > ul > li > ul > li > a {padding-left:20px;}
+	.main-menu nav > ul > li > ul > li > ul > li a {padding-left:25px;}
+	.main-menu nav > ul > li > ul > li > a {font-weight:bold;}
+	.main-menu nav > ul > li > ul > li > ul{left:inherit;position:relative;left:inherit;top:inherit;width:100%;}
+	.main-menu nav > ul > li > ul > li > ul.twocol,.main-menu nav > ul > li > ul > li > ul.twocolsmall {width:100%;}
+	.main-menu nav > ul > li > ul > li > ul.twocol > li,.main-menu nav > ul > li > ul > li > ul.twocolsmall > li {width:100%;float:none;}
+	.main-menu nav > ul > li > ul > li > ul.twocolsmall{left:inherit;}
+	.main-menu nav > ul > li > ul > li > ul.ltside{left:inherit;}
+	.ulp-header {position:fixed; top:0px; left:0px; width:100%; background:#fff; height:130px;}
+	.ulp-content {margin-top:130px;}
+
+	header.ulp-header, .ulp-content, footer.ulp-footer {left:0;}
+	.ulp-content, footer.ulp-footer {position:relative;}
+	body {overflow-x:hidden;}
+	.search-social .search {background:#fff; position:absolute; right:60px; top:115px; display:none;}
+	.search-social .search:after {content:'';position:absolute; width:0px; height:0px; border:12px solid transparent;top:-24px; right:12px; border-bottom:12px solid #989898;}
+}
+@media (max-width:767px) {
+	.openmenu {border-left:1px solid #a1cbda;}
+	.enquires {right:-4px;}
+	.ulp-header {height:56px;}
+	.ulp-content {margin-top:56px;}
+	.search-social .search:after {right:37px;}
+	.search-social .search {right:-2px; top:50px;}
+	.banner-content {position:relative;}
+	.img-name {position:absolute;top:125px; margin-top:0px; z-index:999;}
+	.img-name .txt-small {margin-top:0px; padding-top:0;}
+	.edoc-top .edoc-mobile{top:20px}
+	.widget-block figure{padding-bottom:10px}
+	
+.widget-block-out .edoc-mobile{display:inline-block !important; vertical-align:middle; position:absolute; right:0px; top:-19px; width:58px;height:19px; background:url('../images/widget/hide.png') 0 0 no-repeat;cursor:pointer;z-index:10001;}
+.widget-block-out .edoc-mobile.active {background-image:url('../images/widget/show.png')}
+	#country_list_id {  position: absolute;
+  left: 0px;
+  bottom: 34px;
+  max-height: 300px;
+  min-height: 20px;
+  background: #fff;
+  overflow: hidden;
+  border-radius: 0px;
+  z-index: 99999;
+  min-height: 50px;
+  padding: 0;
+  width: 173px;
+  display: none;
+  background: #f9f9f9;}
+  .place_holder {padding-top:8px;}
+  #country_list_id ul li a {width:173px;}
+  .widget-block .widget-name {width:140px; font-size:11px;}
+  .widget-block .widget-doctor {width:75px; font-size:11px;}
+.widget-block form{display:inherit}
+.widget-block-out .widget-block{width:100%;max-height:80px;background-color:#197681;position:fixed;left:0;bottom:0;z-index:10000;border-radius:0;padding:7px 10px;}
+.widget-block figure{margin:-45px 0 0;display:none;}
+.widget-block h2{color:#fff;font:12px 'robotoblack';text-transform:uppercase;padding:0 0 5px;margin:0px;}
+.widget-block .selbox{padding:0 3px 0 0;width:38%;float:left;}
+.widget-block .inputfld{float:left;margin:0 0 0 4px;width:49%}
+.widget-block p{margin:0 0 0 7px;float:left;}
+.widget-block .input-group{width:100%;}
+.widget-block .selbox .locateicon:hover,.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default{background-position:1px 3px !important;}
+.widget-block .inputfld .form-control{height:34px;padding:8px 5px; width:83%; background:#fff !important;}
+.widget-block .inputfld .input-group-addon{padding:8px 5px;height:34px}
+.hidden-btn{display:none;}
+.hidden-gobtn{display:block;}
+.widget-block-out{width:100%;}
+.edoc-top .edoc{background:url('../images/widget/hide.png') 0 0 no-repeat;}
+.widget-block-out .edoc-top {padding:8px 0 5px;background-color:#e7b735;margin-top:-72px;}
+.widget-block-out .edoc-top.open {bottom: -46px; position: relative;}
+.widget-block-out .edoc-top .h2{padding-left:11px;margin:0;color:#007d9e;font:12px 'robotoblack';text-transform:uppercase;}
+.edoc-top .edoc{top: -17px; left: 225px; float: left;}
+.edoc-top.open .edoc{top:-25px;}
+.widget-block .form-control {font-size:11px}
+.widget-block .dropdown-menu {font-size:11px}
+.widget-block .bootstrap-select.btn-group .btn .filter-option{left:23px}
+.widget-block .selbox .locateicon{background-size:auto 67% !important;margin:-25px 0 0 6px}
+.widget-block .selbox .btn{padding:8px 5px;font-size:11px}
+.ulp-footer {padding-bottom:60px;}
+.banner-outer-section.banner7 .logo-aphc-dna img{max-width: 50%;}
+.banner-outer-section.banner7 .logo-aphc-dna{padding-top: 25px;padding-bottom:10px;}
+.banner-outer-section.banner7 h3{font:16px/14px "robotobold";}
+.banner-outer-section.banner7{background-size:100% auto !important;height:160px;background-position:0 bottom;background-color:#fce9e2;}
+.banner-outer-section.banner7 h3.mtm5{float:left;}
+.banner-outer-section.banner7 .logo-aphc-dna img{max-width: 39%;}
+}
+
+@media (max-width:480px)  {
+.widget-block p{margin:0px 0 0 0;float:right;}
+.banner-hd-content h1 {font-size:17px;}
+.banner-section .banner-hd-content p {font-size:12px;}
+.banner-hd-content-outer .banner-hd-content h1, .banner-hd-content-outer .banner-hd-content p {padding-left:45%;}
+/*15.7.2015*/
+.patients-safety-list ul{padding-left: 10%;}
+.patients-safety-list ul li{height:40px;width:38px;}
+.patients-safety-list ul li figure{width:100%;}
+.mtm20{margin:0px 0 0;}
+.banner-hd-content-outer .banner-hd-content h1, .banner-hd-content-outer .banner-hd-content p{padding-left: 30%;}
+.banner-hd-content-outer .banner-hd-content.img3 h1, .banner-hd-content-outer .banner-hd-content.img3 p {padding-left:45%}
+.banner-section h1.depth-hd{font-size:16px;line-height:20px;margin:40px 0 10px 40px;}
+.place_holder {padding-top:0px; font-size:11px;}
+.banner-section h1.find-hd{font-size:14px;line-height:16px;margin:10px 0 0;}
+.banner-hd-content-outer.bg7 {background:#882b22;}
+.banner-hd-content-outer .banner-hd-content.img7{float:right;margin-bottom:0px;background:#fce9e2 url('../images/banner-slider/dr7.png') no-repeat 0 bottom !important; padding-top:0;height:160px; padding-bottom:0px;}
+.banner-outer-section.banner7 h3{font: 17px/15px "robotobold";}
+}
+@media (max-width:375px)
+{
+.banner-outer-section.banner7 h3{font: 14px/15px "robotobold";}
+.banner-hd-content-outer .banner-hd-content.img7{background-position:0 top;background-size:110% auto !important;}
+.banner-outer-section.banner7 .logo-aphc-dna{padding:30px 0 10px;}
+}
+
+@media (max-width:360px)
+{
+.banner-hd-content-outer .banner-hd-content h1, .banner-hd-content-outer .banner-hd-content p{padding-left:37%;}
+.patients-safety-list ul{padding-left: 10%; width:100%;}
+.banner-section h1.clinical-hd{margin:15px 0 0;}
+.banner-section h1.depth-hd{font-size:14px;line-height:16px;margin:25px 0 0 50px;}
+.patients-safety-list ul li{height:30px;width:30px;}
+.mtm20{margin:10px 0 0 20px;padding-left:10% !important; text-align:left !important;}
+.ml30{float:right;margin-left:0 !important;}
+
+}
+
+@media (max-width:320px)
+{
+.banner-outer-section.banner7 h3{font: 12px/9px "robotobold";}
+.banner-outer-section.banner7 .logo-aphc-dna img{max-width:50%;}
+}
+
+
+/*3.8.2015 Apollo Cancer*/
+@media (max-width:1600px) {
+.ah-location-address{width:62%;}
+}
+@media (max-width:1440px) {
+.apollo-cancer-banner-outer-section.apollo-cancer-banner1 {background:#0198c7 url('../images/apollo-cancer-institute/banner/apollo-cancer-care-mac.jpg') no-repeat right top;height:302px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner2 {background:#d5d0cc url('../images/apollo-cancer-institute/banner/apollo-transplant-mac.jpg') no-repeat right bottom;height:302px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner3 {background:#945780 url('../images/apollo-cancer-institute/banner/apollo-cheno-mac.jpg') no-repeat right top;height:302px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner4 {background:#4c596a url('../images/apollo-cancer-institute/banner/apollo-proton-mac.jpg') no-repeat right top;height:302px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner5 {background:#a68c75 url('../images/apollo-cancer-institute/banner/apollo-genetic-mac.jpg') no-repeat right top;height:302px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6 {background:#ebe8d5 url('../images/apollo-cancer-institute/banner/apollo-oncology-mac.jpg') no-repeat right top;height:302px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner1 h1{font-size:30px;margin:0;padding:0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner1 p{font-size:19px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner2 h1, .apollo-cancer-banner-outer-section.apollo-cancer-banner3 h1, .apollo-cancer-banner-outer-section.apollo-cancer-banner4 h1, .apollo-cancer-banner-outer-section.apollo-cancer-banner5 h1, .apollo-cancer-banner-outer-section.apollo-cancer-banner6 h1{font-size:30px;padding:0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner2 p{font-size:19px;padding:5px 135px 0 0;line-height:22px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner3 p{font-size:19px;padding:5px 140px 0 0;line-height:22px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner4 p{font-size:19px;padding:5px 100px 0 0;line-height:22px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner5 p{font-size:19px;padding:5px 42px 0 0;line-height:22px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6 p{font-size:19px;padding:5px 42px 0 0;line-height:22px;}
+.cancer-banner-slider .flex-control-nav{padding-left:150px;bottom:0}
+.ah-location-address{width:69%;}
+}
+
+
+
+
+@media (max-width:1024px) {
+.ah-cancer-bluepattern-block-shadow h2{font-size:40px;}
+.ah-advantage-block p{padding: 0 0 25px;}
+.ah-advantage-block h4{font-size:20px;}
+.ah-organ-block ul li a,.ah-organ-block ul li a:hover{width:50%;font-size:14px;}
+.ah-aboutcancer-block h4{font-size:20px;padding: 20px 0 0 15px;}
+.ah-aboutcancer-block .ah-readmore a{background-position:85% 0;}
+.ah-aboutcancer-block p.minheight{min-height:170px;}
+.cancer-banner-slider .flex-control-nav{padding: 0 0 0 48px;}
+.ah-cancer-leftnav h2{font-size:16px;}
+.ah-cancer-leftnav li,.ah-cancer-leftnav li a:hover,.ah-cancer-leftnav li.active a{font-size:14px;}
+.ah-aboutcancer-block p{padding:20px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner1{height:286px;background-size: 133% auto;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner1 h1{margin:0;}
+.cancer-banner-slider .flex-control-nav{bottom:-10px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner2{height:286px;background-size: 133% auto;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner3{height:286px;background-size: 133% auto;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner4{height:286px;background-size: 133% auto;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner5{height:286px;background-size: 133% auto;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6{background-position: right bottom;background-size: 100% auto;height: 286px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner2 h1{padding:0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner3 h1{padding:0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner4 h1{padding:0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner5 h1{padding:0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6 h1{padding:0;}
+.ah-location-address{width: 80%;}
+.apollo-cancer-innerbanner1,.apollo-cancer-innerbanner2{background-size:100% auto;height:229px;}
+.ah-cancerpage-banner{padding: 35px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6 p{font-size:18px;line-height:25px;padding:5px 280px 0 0;}
+.apollo-cancer-banner-outer-section figure{padding: 20px 0 5px;}
+.apollo-cancer-banner-outer-section figure img{max-width:70%;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner2 p{padding: 5px 217px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner3 p{padding: 5px 212px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner4 p{padding: 5px 256px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner5 p{padding: 5px 366px 0 0;}
+.ah-cancer-block .nav-tabs > li.active > a::after{right:64px;}
+}
+
+@media (max-width:980px) {
+.cancer-banner-slider .flex-control-nav{bottom:10px;padding: 0 0 0 15px;}
+.ah-cancer-block{margin-top:130px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner1 {background:#0198c7 url('../images/apollo-cancer-institute/banner/apollo-cancer-care-tablet.jpg') no-repeat right top;height:305px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner2 {background:#d5d0cc url('../images/apollo-cancer-institute/banner/apollo-transplant-tablet.jpg') no-repeat right bottom;height:305px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner3 {background:#945780 url('../images/apollo-cancer-institute/banner/apollo-cheno-tablet.jpg') no-repeat right top;height:305px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner4 {background:#4c596a url('../images/apollo-cancer-institute/banner/apollo-proton-tablet.jpg') no-repeat right top;height:305px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner5 {background:#a68c75 url('../images/apollo-cancer-institute/banner/apollo-genetic-tablet.jpg') no-repeat right top;height:305px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6 {background:#ebe8d5 url('../images/apollo-cancer-institute/banner/apollo-oncology-tablet.jpg') no-repeat right top;height:305px;}
+.ah-cancer-bluepattern-block-shadow h2{font-size:30px;padding: 0 0 10px 10px;}
+.ah-advantage-block{padding:15px 0;}
+.ah-advantage-block figure{margin:-70px 0 0;}
+.ah-advantage-block p{font-size:18px;line-height:25px;text-align:justify;padding:0 0 20px;}
+.ah-advantage-block h4{padding:10px 0 5px;}
+.ah-advantage-block p span {font-size:18px;padding:0;text-align:left;letter-spacing:-0.5px;}
+.ah-organ-block h4{font-size:16px;padding:5px 20px;}
+.ah-organ-block p{font-size:14px;line-height:25px;padding:15px;text-align:justify;}
+.ah-organ-block ul li a,.ah-organ-block ul li a:hover{font-size:12px;line-height:25px;padding:0 5px;width:50%;}
+.ah-organ-block .ah-readmore a{margin: 20px 0;}
+.ah-aboutcancer-block h4{font-size:16px;padding:0 15px;height:30px;line-height:17px;}
+.ah-aboutcancer-block p{font-size:13px;padding:10px;}
+.ah-aboutcancer-block .ah-readmore a{background-position:center 0;}
+.ah-cancer-block .nav-tabs{height:50px;}
+.ah-cancer-block .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{font-size:12px;}
+.ah-cancer-block .nav-tabs > li > a{font-size:12px;}
+.ah-cancer-block .nav-tabs > li.active > a::after{right:45px;}
+.ah-cancer-leftnav h2{font-size:12px;padding:0 0 0 5px;line-height:35px;background-position:95% 12px;}
+.ah-cancer-leftnav li{font-size:12px;font-weight:normal;letter-spacing:-0.5px;line-height:35px;}
+.ah-cancer-leftnav li a{padding:0 0 0 5px;line-height:35px;}
+.ah-cancer-leftnav li a:hover,.ah-cancer-leftnav li.active a{font-size:12px;font-family:'robotoregular';padding:0 0 0 5px;line-height:35px;background-position:94% 12px;}
+.ah-cancer-content-block h1{font-size:30px;}
+.ah-cancer-content-list-detail li.wd33{width:50%;}
+div.ah-breadcrumb .breadCrumbChild:first-child{padding-left:5px;}
+div.ah-breadcrumb .breadCrumbChild{font-size:12px;}
+.ah-location-address{width:90%;padding:10px 0 0;}
+.ah-location-address h6{font-size:17px;}
+.ah-location-address h6 span{font-size:14px;}
+.ah-location-address p{font-size:14px;padding-top:5px;}
+.ah-location-address ul{padding:5px 0 0;}
+.ah-location-address li{font-size:12px;}
+.apollo-cancer-innerbanner1{background:#d4d5d9 url('../images/apollo-cancer-institute/banner/apollo-advantage-tablet.jpg') no-repeat center top;height:205px;}
+.apollo-cancer-innerbanner2{background:#fff url('../images/apollo-cancer-institute/banner/apollo-about-tablet.jpg') no-repeat center top;height:205px;}
+.apollo-cancer-innerbanner3{background:#d4d5cd url('../images/apollo-cancer-institute/banner/apollo-treatment-tablet.jpg') no-repeat center top;height:205px;}
+.apollo-cancer-innerbanner4{background:#e3e5e0 url('../images/apollo-cancer-institute/banner/apollo-organ-specific-tablet.jpg') no-repeat center top;height:205px;}
+.apollo-cancer-innerbanner5{background:#46a8e7 url('../images/apollo-cancer-institute/banner/apollo-hospitals-tablet.jpg') no-repeat center top;height:205px;}
+.apollo-cancer-innerbanner6{background:#eae9da url('../images/apollo-cancer-institute/banner/ongology-tablet.jpg') no-repeat center top;height:205px;}
+.apollo-cancer-innerbanner7{background:#eae9da url('../images/apollo-cancer-institute/banner/ongology-tablet.jpg') no-repeat center top;height:205px;}
+.cancer-banner-slider .flex-control-nav{bottom: -5px;padding: 0 0 0 25px;}
+.ah-cancerpage-banner h3{font-size:27px;line-height:27px;}
+.ah-cancerpage-banner h4 {font-size:16px;line-height:18px;}
+.ah-cancerpage-banner p{font-size:13px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6 h1{padding: 0 25px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6 p{font-size:18px;line-height:25px;padding: 5px 210px 0 0;}
+.ah-news-events .ah-newsevents .slides li figcaption{font-size: 14px;line-height: 18px;padding: 0 10px 20px 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner2 p{padding: 5px 200px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner3 p{padding: 5px 137px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner5 p{padding: 5px 119px 0 0;}
+}
+
+@media (max-width:767px){
+.mobile-leftnav{width:26px;height:26px;float:right;background-position:right top;margin:28px 0 0;cursor:pointer;}
+.leftnav-menu:after {position:absolute; content:''; width:0; height:0; border:10px solid transparent; border-bottom:10px solid #59599d;right:19px;top:-20px;z-index:100;}
+.ah-cancer-white-block figure{max-width:80%;}
+.ah-advantage-block p{font-size:14px;}
+.ah-news-events{width:100%;}
+.ah-news-events .ah-newsevents .slides li figcaption{width:50%;}
+.ah-news-events .ah-newsevents .slides li figure{width:50%;}
+.ah-news-events .ah-newsevents .slides li figcaption {padding-top:40px;font-size:18px;}
+.ah-cancer-block .nav-tabs > li.active > a::after{right:34px;}
+.ah-team{padding-top: 17px !important;text-align:right;}
+}
+
+@media (max-width:640px) {
+.ah-cancer-bluepattern-block-shadow{padding:20px 0 0;}
+.ah-cancer-bluepattern-block-shadow h2{padding:0 0 0 10px;}
+.ah-advantage-block h3{font-size:35px;line-height:35px;padding:0 0 10px;}
+.ah-advantage-block p{padding:0 0 80px;}
+.ah-aboutcancer-block{width:48.7%;}
+.ah-aboutcancer-block.mr2{margin-right:2.5%;}
+.ah-aboutcancer-block.mrt0{margin-right:0;}
+.ah-aboutcancer-block p{font-size:15px;line-height:20px;padding:20px;}
+.ah-organ-block ul li a, .ah-organ-block ul li a:hover{font-size: 10px;}
+.ah-organ-block .ah-readmore a,.ah-advantage-block .ah-readmore a, .ah-organ-block .ah-readmore a, .ah-aboutcancer-block .ah-readmore a{background-position:center 0;}
+.ah-cancer-content-list p{padding:0 0 5px;}
+.ah-cancer-leftnav{margin-right:0;width:100%;}
+.ah-cancer-leftnav h2{font-size:14px;}
+.ah-cancer-leftnav li,.ah-cancer-leftnav li a:hover,.ah-cancer-leftnav li.active a{font-size:14px;}
+.ah-cancer-content-block h1{font-size:25px;padding: 25px 0 5px;}
+.ah-cancer-block {margin-top: 60px;}
+div.ah-breadcrumb{padding:10px 0;}
+.ah-cancer-inner-block{margin:20px 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner1 p{font-size:19px;padding:5px 320px 0 0;margin:0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner2 p{padding:5px 350px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner3 h1{padding-right:240px;font-size:25px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner4 h1{padding-right:240px;font-size:25px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner5 h1,.apollo-cancer-banner-outer-section.apollo-cancer-banner1 h1,.apollo-cancer-banner-outer-section.apollo-cancer-banner2 h1{font-size:25px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner3 p,.apollo-cancer-banner-outer-section.apollo-cancer-banner5 p{padding:5px 300px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner4 p{padding:5px 280px 0 0;}
+.ah-detail-img{margin:0 0 20px 0;float:none;}
+a.backct{margin-top: -37px;}
+.ah-cancer-content-list-detail li.wd50{width:100%;}
+.apollo-cancer-innerbanner1,.apollo-cancer-innerbanner2{background-size:100% auto;height: 171px;}
+.cancer-banner-slider .flex-control-nav{bottom: 10px;padding: 0 0 0 16px;}
+.ah-cancerpage-banner {padding: 25px 0 0;}
+.ah-cancerpage-banner h3{font-size:20px;line-height:20px;}
+.ah-cancerpage-banner h4 {font-size:14px;line-height:18px;margin:5px 0 0;}
+.ah-cancerpage-banner p{font-size:11px;}
+.ah-cancerpage-banner{padding: 70px 0 0;}
+.prb15{padding:0 0 15px 0 !important;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6{background-size:100% auto;background-position:right bottom;height: 305px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6 h1{font-size:25px;padding: 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6 p{font-size: 16px;line-height: 25px;padding: 0 343px 0 0;}
+.ah-news-events .ah-newsevents .slides li figcaption{padding-top:20px;font-size:14px;}
+.apollo-cancer-banner-outer-section figure img{width: 75px;}
+}
+
+@media (max-width:480px) {
+.col-xxs-12,.col-xs-3{position:relative;min-height:1px;padding-right:15px;padding-left:15px;}
+.col-xxs-12{float:left;}
+.col-xxs-12{width:100%;}
+.col-xxs-push-0{left:auto;}
+.col-xs-3{width:25%;}
+.ah-aboutcancer-block{width:100%;}
+.ah-aboutcancer-block.mr2{margin-right:0;}
+.ah-aboutcancer-block.mrt0{margin-right:0;}
+.ah-organ-block {width: 100%;}
+.ah-cancer-block .nav-tabs{background:#008faf;border-bottom:0;border-radius:0;height:auto;padding:0;}
+.ah-cancer-block .nav-tabs > li{text-align:center;width:100%;margin:1px 0 0;}
+.ah-cancer-block .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{background-color:transparent;border:0;color: #fff;cursor:pointer;font:20px 'robotobold';}
+.ah-cancer-block .nav-tabs > li.active > a:after {display:none;}
+.ah-cancer-block .nav-tabs > li > a{border:1px solid #fff;border-radius:0;background-color:#fff;line-height:1.42857;margin-right:0;color:#6d6d70;font:20px 'robotoregular';}
+.ah-cancer-block .nav > li > a{padding:6px 0;}
+.ah-advantage-block h3{font-size: 26px;padding: 0;}
+.ah-aboutcancer-block p.minheight{min-height:inherit;}
+.ah-cancer-bluepattern-block-shadow h2{font-size:22px;}
+.ah-advantage-block h4,.ah-advantage-block p span{font-size:16px;}
+.ah-aboutcancer-block h4{height:auto;}
+.ah-cancer-content-block h1{font-size:20px;width:100%;}
+.ah-detail-img{margin:-15px 0 20px 0;}
+a.backct{margin-top:15px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner1 {background:#0198c7 url('../images/apollo-cancer-institute/banner/apollo-cancer-care-mobile.jpg') no-repeat right top;height:189px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner2 {background:#d5d0cc url('../images/apollo-cancer-institute/banner/apollo-transplant-mobile.jpg') no-repeat right bottom;height:189px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner3 {background:#945780 url('../images/apollo-cancer-institute/banner/apollo-cheno-mobile.jpg') no-repeat right top;height:189px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner4 {background:#4c596a url('../images/apollo-cancer-institute/banner/apollo-proton-mobile.jpg') no-repeat right top;height:189px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner5 {background:#a68c75 url('../images/apollo-cancer-institute/banner/apollo-genetic-mobile.jpg') no-repeat right top;height:189px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6 {background: #ebe8d5 url("../images/apollo-cancer-institute/banner/apollo-oncology-mobile.jpg") no-repeat scroll right bottom / 80% auto; height: 189px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6 h1{font-size: 16px;margin: 0;padding:0 126px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6 p{font-size: 12px;line-height: 17px;padding:5px 248px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner1 h1{font-size:16px;margin:5px 0 0;padding:0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner1 p{font-size:12px;padding: 0 220px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner2 h1,.apollo-cancer-banner-outer-section.apollo-cancer-banner5 h1{font-size:16px;padding:0;margin:0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner3 h1{font-size: 16px;line-height: 16px;margin: 0;padding: 0 200px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner4 h1{font-size: 16px;line-height: 16px;margin: 0;padding: 0 172px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner2 p{font-size:12px;padding:5px 150px 0 0;line-height:13px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner3 p{font-size:12px;padding:5px 150px 0 0;line-height:13px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner4 p{font-size:12px;padding:5px 150px 0 0;line-height:13px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner5 p{font-size:12px;padding:5px 150px 0 0;line-height:13px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner1 figure img{max-width:50%;}
+.apollo-cancer-banner-outer-section figure{padding: 25px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner1 figure img{margin:0 0 0 20px;width:50px;}
+.cancer-banner-slider .flex-control-nav{padding: 0 0 0 15px;bottom: 20px;}
+.apollo-cancer-innerbanner1{background:#d4d5d9 url('../images/apollo-cancer-institute/banner/apollo-advantage-mobile.jpg') no-repeat center top;height:89px;}
+.apollo-cancer-innerbanner2{background:#fff url('../images/apollo-cancer-institute/banner/apollo-about-mobile.jpg') no-repeat center top;height:89px;}
+.apollo-cancer-innerbanner3{background:#d4d5cd url('../images/apollo-cancer-institute/banner/apollo-treatment-mobile.jpg') no-repeat center top;height:89px;}
+.apollo-cancer-innerbanner4{background:#e3e5e0 url('../images/apollo-cancer-institute/banner/apollo-organ-specific-mobile.jpg') no-repeat center top;height:89px;}
+.apollo-cancer-innerbanner5{background:#46a8e7 url('../images/apollo-cancer-institute/banner/apollo-hospitals-mobile.jpg') no-repeat center top;height:89px;}
+.apollo-cancer-innerbanner6{background:#eae9da url('../images/apollo-cancer-institute/banner/oncology-team-mobile.jpg') no-repeat left top;height:89px;}
+.apollo-cancer-innerbanner7{background:#eae9da url('../images/apollo-cancer-institute/banner/oncology-team-mobile.jpg') no-repeat center top;height:89px;}
+
+.ah-cancerpage-banner{padding: 25px 0 0;}
+.ah-cancerpage-banner h3.unwar{font-size: 14px;margin-top:-10px;}
+.ah-location-address{margin:0 5%;width:90%;}
+.apollo-cancer-banner-outer-section figure{padding:10px 0 0;}
+.apollo-cancer-banner-outer-section figure img{width:50px;}
+}
+@media (max-width:414px) {
+.cancer-banner-slider .flex-control-nav{padding: 0 0 0 15px;bottom: -10px;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner6 p{padding: 2px 169px 0 0;}
+}
+@media (max-width:360px)
+{
+.apollo-cancer-banner-outer-section.apollo-cancer-banner2 p{padding: 5px 178px 0 0;}
+.apollo-cancer-banner-outer-section.apollo-cancer-banner5 p{padding: 5px 181px 0 0;}
+}

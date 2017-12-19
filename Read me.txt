@@ -1,0 +1,2 @@
+Go to browser and run index.jsp
+
